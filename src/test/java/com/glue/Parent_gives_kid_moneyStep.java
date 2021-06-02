@@ -5,7 +5,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
 
-public class Parent_gives_kid_money!!Step {
+public class Parent_gives_kid_money Step {
 
     @Given("^Parent is logged in and has children$")
     public void that_i_am_a_logged_in_parent() throws Throwable {
