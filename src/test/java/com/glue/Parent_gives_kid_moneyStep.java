@@ -21,4 +21,4 @@ public class Parent_gives_kid_money Step {
     public void i_should_see_a_link_to_add_kids() throws Throwable {
         Assert.assertEquals(true, true);
     }
-}
+}*/
